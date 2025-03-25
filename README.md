@@ -1,4 +1,5 @@
 ## Unity 고스트 퀴즈! Ui 매니저 스크립트
+![Image](https://github.com/user-attachments/assets/1523db2d-af7c-40c0-8542-662236a758e9)
 <br/>
 이 스크립트는 저의 게임 중 하나인 고스트 퀴즈!의 스크립트 중 하나입니다.
 <br/>
